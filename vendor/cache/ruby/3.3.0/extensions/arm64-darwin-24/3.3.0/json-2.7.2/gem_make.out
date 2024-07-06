@@ -1,0 +1,16 @@
+current directory: /Users/trevkat/Documents/Coding/gorails_blog/vendor/cache/ruby/3.3.0/gems/json-2.7.2/ext/json
+/Users/trevkat/.asdf/installs/ruby/3.3.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/trevkat/Documents/Coding/gorails_blog/vendor/cache/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240706-52936-7pmxj1 sitelibdir\=./.gem.20240706-52936-7pmxj1 clean
+
+current directory: /Users/trevkat/Documents/Coding/gorails_blog/vendor/cache/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240706-52936-7pmxj1 sitelibdir\=./.gem.20240706-52936-7pmxj1
+make: Nothing to be done for `all'.
+
+current directory: /Users/trevkat/Documents/Coding/gorails_blog/vendor/cache/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240706-52936-7pmxj1 sitelibdir\=./.gem.20240706-52936-7pmxj1 install
+
+current directory: /Users/trevkat/Documents/Coding/gorails_blog/vendor/cache/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240706-52936-7pmxj1 sitelibdir\=./.gem.20240706-52936-7pmxj1 clean
